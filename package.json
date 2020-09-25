@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-scissor",
+  "version": "1.0.0",
+  "description": "simple rock paper scissor game",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan-Shakya/Rock-Paper-Scissor.git"
+  },
+  "author": "Rohan Shakya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohan-Shakya/Rock-Paper-Scissor/issues"
+  },
+  "homepage": "https://github.com/Rohan-Shakya/Rock-Paper-Scissor#readme"
+}
